@@ -15,6 +15,14 @@ Este proyecto consta de dos partes principales:
    - Si la suma de los stickers es menor o igual a 10, se muestra un mensaje indicando la cantidad de stickers llevados.  
    - Si la suma es mayor a 10, se muestra un mensaje indicando que se han seleccionado demasiados stickers.
 
+3. **Validacion Contraseña**:  
+   - La página muestra tres menús desplegables (select), cada uno con opciones del 1 al 9.
+   - El usuario selecciona un número en cada menú para formar una contraseña de tres dígitos.
+   - Si la combinación seleccionada es 911, se muestra el mensaje "password 1 correcto".
+   - Si la combinación seleccionada es 714, se muestra el mensaje "password 2 correcto".
+   - Para cualquier otra combinación, se muestra el mensaje "password incorrecto".  
+
+
 
 **English**✨
 
@@ -30,4 +38,11 @@ This project consists of two main parts:
    - A maximum of 10 stickers in total can be selected.  
    - If the sum of the selected stickers is less than or equal to 10, a message is displayed showing the number of stickers taken.  
    - If the sum exceeds 10, a message is displayed indicating that too many stickers have been selected.
+
+3. **Password validation**:
+   - The page displays three dropdowns (select), each with options from 1 to 9.
+   - The user selects one number from each dropdown to form a three-digit password.
+   - If the selected combination is 911, a message "password 1 correcto" is displayed.
+   - If the selected combination is 714, a message "password 2 correcto" is displayed.
+   - For any other combination, a message "password incorrecto" is shown.
 
