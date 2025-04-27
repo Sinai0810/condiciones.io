@@ -2,7 +2,7 @@
 
 **Español**✨ 
 
-Este proyecto consta de dos partes principales:
+Este proyecto consta de tres partes principales:
 
 1. **Imagen con borde**:  
    - Se crea una página web con una única imagen.  
@@ -26,7 +26,7 @@ Este proyecto consta de dos partes principales:
 
 **English**✨
 
-This project consists of two main parts:
+This project consists of three main parts:
 
 1. **Image with border**:  
    - A webpage is created with a single image.  
