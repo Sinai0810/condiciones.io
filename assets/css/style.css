@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Poppins', sans-serif 
+}
+
+h1 {
+    padding-top: 10px;
+    
+    
+   
+}
+
+.section1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+    height: 75vh;
+}
+
+#imagen1 
+{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    width: 300px;
+    height: 360px;
+
+
+}
+
+
+#tittle {
+    text-align: center;
+    padding-top: 10px ;
+   
+}
+
+
+.section2 {
+    background-color: rgb(32, 106, 170);
+    height: 70vh;
+}
+
+.sticker-images{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    gap: 15px;
+
+}
+#sticker1 {
+    
+    margin-bottom: 25px;
+    width: 260px;
+    height: 280px;
+    border-radius: 5px;
+}
+#sticker2 {
+    
+    margin-bottom: 25px;
+    width: 260px;
+    height: 280px; 
+    border-radius: 5px;
+}
+#sticker3 {
+    
+    margin-bottom: 25px;
+    width: 260px;
+    height: 280px;
+    border-radius: 5px;
+}
+
+#resultado {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.sticker-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center ;
+    
+}
+
+.section3 { 
+    background-color: antiquewhite;
+    height: 75vh;
+}
+
+h2 {
+    text-align: center;
+   padding-top: 10px;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+
+}
+.btn-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+}
